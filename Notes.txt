@@ -1,0 +1,14 @@
+ 2D Arrays;
+       Are arrays that contain 10 arrays.
+ Why we should learn about 20 arrays.
+       Because they  allow us to store multiple one D arrays which gives us more flexibility to store data.
+       for example if we have to store data from Excel files we can use 2D Arrays.
+ Syntax to create 2D Arrays:
+ First Way:
+       DataType [][] nameOfArrays= new DataType[Sizeof Rows][];
+       DataType[] [] nameOfArray={data, data ,data},{data, data},{data, data, data,data}};
+OOP IS NOTHING BUT SOME SET OF RULES THAT IF WE FOLLOW WE ACHIEVE BELOW:
+    1) Representing real life entities becomes easier.
+    2) Code repetition is minimized.
+    3) Changing existing code and adding new features becomes easier.
+    4) Helps secure code
